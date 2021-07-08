@@ -1,0 +1,22 @@
+{
+  "name": "PSimpleOAuth",
+  "version": "0.1.0",
+  "summary": "A short description of PSimpleOAuth.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Pancajim/PSimpleOAuth",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pancajim": "pancajima@mail.sfsu.edu"
+  },
+  "source": {
+    "git": "https://github.com/Pancajim/PSimpleOAuth.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PSimpleOAuth/Classes/**/*"
+}
